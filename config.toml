@@ -1,0 +1,32 @@
+baseurl = "https://lowf.at"
+languageCode = "en-us"
+title = "Lowfat Industries, LLC"
+theme = "hugo-grapes"
+enableEmoji = true
+
+[permalinks]
+  post = "/posts/:slug/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "chat"
+    name = "chat"
+    url = "https://lowfat.slack.com/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "private"
+    name = "private"
+    url = "https://prv.lowf.at/"
+    weight = 30
+
+
+[params]
+avatar = "img/icon.png"

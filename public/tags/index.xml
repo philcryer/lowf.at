@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lowfat Industries, LLC</title>
+    <link>https://lowf.at/tags/</link>
+    <description>Recent content in Tags on Lowfat Industries, LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Oct 2018 20:08:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://lowf.at/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>grapes</title>
+      <link>https://lowf.at/tags/grapes/</link>
+      <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/grapes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moral</title>
+      <link>https://lowf.at/tags/moral/</link>
+      <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/moral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ayurvedha</title>
+      <link>https://lowf.at/tags/ayurvedha/</link>
+      <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/ayurvedha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tonic</title>
+      <link>https://lowf.at/tags/tonic/</link>
+      <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/tonic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://lowf.at/tags/bash/</link>
+      <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>json</title>
+      <link>https://lowf.at/tags/json/</link>
+      <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/json/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://lowf.at/tags/rust/</link>
+      <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
+      
+      <guid>https://lowf.at/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
