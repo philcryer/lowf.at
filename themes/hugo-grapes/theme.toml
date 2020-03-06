@@ -1,0 +1,17 @@
+name = "hugo-grapes"
+license = "MIT"
+licenselink = "https://github.com/shankar/hugo-grapes/blob/master/LICENSE"
+description = "Text based minimalistic Hugo theme"
+homepage = "https://github.com/shankar/hugo-grapes"
+tags = ["minimalist", "simple", "clean", "blog", "responsive"]
+features = ["blog"]
+min_version = "0.57.0"
+
+[author]
+  name = "Shankar"
+  homepage = "https://shankar.me/"
+
+[original]
+  name = "Bing-Sheng Chen"
+  homepage = "https://bschen.tw/"
+  repo = "https://github.com/gundamew/hugo-bingo"

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main id="home">
+    <div id="about" class="grape">
+        <div class="container">
+	    <div class="avatar">
+		{{ with .Site.Params.avatar }}
+		<img src="{{ . }}" alt="Avatar">
+		{{ end }}
+	    </div>
+            <div id="content">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <div id="recent-posts" class="sand">
+	<div class="container">
+            <h2>Manifesto</h2>
+            <ul>
+              Our manifesto is one way we share our culture with the community. It’s an evolving collection of bold thoughts that allow for some real conversations to take place. Get to know our manifesto and learn more about what lights our fire.
+            </ul>
+        </div>
+    </div>
+</main>
+{{ end }}
