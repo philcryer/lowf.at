@@ -22,7 +22,19 @@ enableEmoji = true
     weight = 20
 
   [[menu.main]]
-    identifier = "private"
+    identifier = "fah"
+    name = "folding@home"
+    url = ""
+    weight = 25
+
+  [[menu.main]]
+    identifier = "fah (stats)"
+    name = "folding@home (stats)"
+    url = "https://folding.extremeoverclocking.com/team_summary.php?s=&t=261811"
+    weight = 27
+
+  [[menu.main]]
+    identifier = "prv"
     name = "private"
     url = "https://prv.lowf.at/"
     weight = 30
