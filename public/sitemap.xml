@@ -3,103 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lowf.at/categories/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/categories/fable/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/grapes/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lowf.at/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
+    <lastmod>2020-05-17T14:21:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lowf.at/tags/moral/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
+    <loc>https://lowf.at/posts/manifesto/</loc>
+    <lastmod>2020-05-17T14:21:06-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lowf.at/posts/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
+    <lastmod>2020-05-17T14:21:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lowf.at/categories/story/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
+    <loc>https://lowf.at/posts/about-us/</loc>
+    <lastmod>2020-05-17T14:19:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lowf.at/categories/</loc>
   </url>
   
   <url>
     <loc>https://lowf.at/tags/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/posts/the-fox-and-the-grapes/</loc>
-    <lastmod>2018-10-19T20:08:42+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/ayurvedha/</loc>
-    <lastmod>2018-10-19T19:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/categories/ayurvedha/</loc>
-    <lastmod>2018-10-19T19:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/posts/drakshasava/</loc>
-    <lastmod>2018-10-19T19:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/categories/medicine/</loc>
-    <lastmod>2018-10-19T19:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/tonic/</loc>
-    <lastmod>2018-10-19T19:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/bash/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/categories/code/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/posts/code-demo/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/json/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/categories/programming/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lowf.at/tags/rust/</loc>
-    <lastmod>2018-10-18T18:43:49+05:30</lastmod>
   </url>
   
 </urlset>
