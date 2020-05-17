@@ -6,37 +6,27 @@
     <description>Recent content in Posts on Lowfat Industries, LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Oct 2018 20:08:42 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 14:21:06 -0500</lastBuildDate>
     
 	<atom:link href="https://lowf.at/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Fox and the Grapes</title>
-      <link>https://lowf.at/posts/the-fox-and-the-grapes/</link>
-      <pubDate>Fri, 19 Oct 2018 20:08:42 +0530</pubDate>
+      <title>Manifesto</title>
+      <link>https://lowf.at/posts/manifesto/</link>
+      <pubDate>Sun, 17 May 2020 14:21:06 -0500</pubDate>
       
-      <guid>https://lowf.at/posts/the-fox-and-the-grapes/</guid>
-      <description>A Fox one day spied a beautiful bunch of ripe grapes hanging from a vine trained along the branches of a tree. The grapes seemed ready to burst with juice, and the Fox&amp;rsquo;s mouth watered as he gazed longingly at them.
-The bunch hung from a high branch, and the Fox had to jump for it. The first time he jumped he missed it by a long way. So he walked off a short distance and took a running leap at it, only to fall short once more.</description>
+      <guid>https://lowf.at/posts/manifesto/</guid>
+      <description>Our manifesto is one way we share our culture with the community. It’s an evolving collection of bold thoughts that allow for some real conversations to take place. Get to know our manifesto and learn more about what lights our fire.</description>
     </item>
     
     <item>
-      <title>Drakshasava</title>
-      <link>https://lowf.at/posts/drakshasava/</link>
-      <pubDate>Fri, 19 Oct 2018 19:43:49 +0530</pubDate>
+      <title>About Us</title>
+      <link>https://lowf.at/posts/about-us/</link>
+      <pubDate>Sun, 17 May 2020 14:19:35 -0500</pubDate>
       
-      <guid>https://lowf.at/posts/drakshasava/</guid>
-      <description>Drakshasava (Sanskrit: द्राक्षासव) is a traditional Ayurvedic tonic made from grapes. Drakshasava is a weak wine because the grape juice is usually only partially fermented. It is also sometimes prepared by using raisin concentrate. The tonic is claimed to be beneficial for maladies such as lethargy, weakness and heat exhaustion. Drakshasava is believed to address health imbalances arising from an excess of the Vata-Vayu Dosha and is said to be useful in curing cardiac disorders and hemorrhoids in the Ayurvedic system.</description>
-    </item>
-    
-    <item>
-      <title>Code Demo</title>
-      <link>https://lowf.at/posts/code-demo/</link>
-      <pubDate>Thu, 18 Oct 2018 18:43:49 +0530</pubDate>
-      
-      <guid>https://lowf.at/posts/code-demo/</guid>
-      <description>Bash #!/bin/bash  ###### CONFIG ACCEPTED_HOSTS=&amp;#34;/root/.hag_accepted.conf&amp;#34; BE_VERBOSE=false if [ &amp;#34;$UID&amp;#34; -ne 0 ] then echo &amp;#34;Superuser rights required&amp;#34; exit 2 fi genApacheConf(){ echo -e &amp;#34;# Host ${HOME_DIR}$1/$2:&amp;#34; } JSON [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] Rust fn main() { let greetings = [&amp;#34;Hello&amp;#34;, &amp;#34;Hola&amp;#34;, &amp;#34;Bonjour&amp;#34;, &amp;#34;Ciao&amp;#34;, &amp;#34;こんにちは&amp;#34;, &amp;#34;안녕하세요&amp;#34;, &amp;#34;Cześć&amp;#34;, &amp;#34;Olá&amp;#34;, &amp;#34;Здравствуйте&amp;#34;, &amp;#34;Chào bạn&amp;#34;, &amp;#34;您好&amp;#34;, &amp;#34;Hallo&amp;#34;, &amp;#34;Hej&amp;#34;, &amp;#34;Ahoj&amp;#34;, &amp;#34;سلام&amp;#34;,&amp;#34;สวัสดี&amp;#34;]; for (num, greeting) in greetings.</description>
+      <guid>https://lowf.at/posts/about-us/</guid>
+      <description>Complex challenges become opportunities when viewed from many perspectives. The depth and breadth of the our team, our focus on forming stronger, collaborative relationships, and our legacy of examining the finest details reveal new perspectives for our clients. Our ability to connect human insights with advanced technology helps our clients realize the potential of infinite possibilities. When you only see possible, you redefine the impact you can make.</description>
     </item>
     
   </channel>
