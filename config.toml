@@ -26,13 +26,19 @@ enableEmoji = true
     name = "folding@home"
     url = "https://stats.foldingathome.org/team/261811"
     weight = 25
-
+	
+  [[menu.main]]
+    identifier = "sht"
+    name = "short"
+    url = "https://admlowfatshorti34th.azurewebsites.net/"
+    weight = 30
+	
   [[menu.main]]
     identifier = "prv"
     name = "private"
     url = "https://prv.lowf.at/"
-    weight = 30
-
+    weight = 35
+	
 copyright = "© Copyright notice"
 
 # Enable syntax highlighting.
