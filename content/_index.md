@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Lowfat Industries, LLC
 ---
 
 ## Lowfat Industries, LLC
