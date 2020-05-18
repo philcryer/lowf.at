@@ -71,7 +71,7 @@ summaryLength = 50
     featherIconsCDN = true
 
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/myicon.png"
+    favicon = "img/icon.png"
 
     # Switch to dark mode or auto detect mode from OS (Optional).
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
@@ -89,6 +89,6 @@ summaryLength = 50
     # for example you may want to include external JS library.
     customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
     
-	# For OpenGraph metadata
+    # For OpenGraph metadata
     title = "Lowfat Industries, LLC"
     description = "Connecting human insights with technology for impact."
