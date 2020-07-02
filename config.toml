@@ -36,7 +36,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "about"
-    text = "about Lowfat Industries, LLC"
+    text = "about"
 
 [imaging]
     quality = 75
