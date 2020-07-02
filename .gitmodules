@@ -1,3 +1,12 @@
 [submodule "themes/ezhil"]
 	path = themes/ezhil
 	url = https://github.com/vividvilla/ezhil
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "themes/hugo-theme-air"]
+	path = themes/hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/victoriadrake/hugo-theme-sam.git

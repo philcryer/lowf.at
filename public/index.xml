@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Lowfat Industries, LLC</title>
+    <title>Lowfat Industries, LLC</title>
     <link>https://lowf.at/</link>
-    <description>Recent content in Home on Lowfat Industries, LLC</description>
+    <description>Recent content on Lowfat Industries, LLC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 17 May 2020 14:21:06 -0500</lastBuildDate>
     
 	<atom:link href="https://lowf.at/index.xml" rel="self" type="application/rss+xml" />

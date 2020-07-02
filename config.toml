@@ -1,94 +1,41 @@
-baseurl = "https://lowf.at/"
-languageCode = "en-us"
-title = "Lowfat Industries, LLC"
-theme = "ezhil"
-enableEmoji = true
-
-[permalinks]
-  post = "/posts/:slug/"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "home"
-    name = "home"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "chat"
-    name = "chat"
-    url = "https://lowfat.slack.com/"
-    weight = 20
-
-  [[menu.main]]
-    identifier = "fah"
-    name = "folding@home"
-    url = "https://stats.foldingathome.org/team/261811"
-    weight = 25
-	
-  [[menu.main]]
-    identifier = "sht"
-    name = "short"
-    url = "https://admlowfatshorti34th.azurewebsites.net/"
-    weight = 30
-	
-  [[menu.main]]
-    identifier = "prv"
-    name = "private"
-    url = "https://prv.lowf.at/"
-    weight = 35
-	
-copyright = "© Copyright notice"
-
-# Enable syntax highlighting.
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-# Your Google analytics code.
-googleAnalytics = "UA-123-45"
-# Your Disqus sortname.
-disqusShortname = "localhost"
-
-# Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 10
-
-# Number of characters to show in summary.
-summaryLength = 50
+baseurl                  = "https://lowf.at/"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Lowfat Industries, LLC"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Connecting human insights with technology for impact."
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "home"                           # What to call the home page link
+    footerText           = "Lowfat Industries, LLC"
 
-    # Content types which are included in home page recent posts list.
-    mainSections = ["posts"]
+# Metadata for Open Graph and Twitter
+    description          = "Connecting human insights with technology for impact."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Lowfat Industries, LLC"
+    # rss                = ""
 
-    # Content types which are excludes Disqus comments.
-    disableDisqusTypes = ["page"]
+[[params.mainMenu]]
+    link = "https://lowfat.slack.com/"
+    text = "chat"
 
-    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
-    featherIconsCDN = true
+[[params.mainMenu]]
+    link = "https://stats.foldingathome.org/team/261811"
+    text = "folding@home"
 
-    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "img/icon.png"
+[[params.mainMenu]]
+    link = "https://prv.lowf.at/"
+    text = "private"
 
-    # Switch to dark mode or auto detect mode from OS (Optional).
-    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
-    mode = "dark" # "dark" or "auto"
+[[params.mainMenu]]
+    link = "about"
+    text = "about Lowfat Industries, LLC"
 
-    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
-    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
-    # you can specify custom css path as `css/custom.css`.
-    customCSS = "css/custom.css"
-    # Custom CSS added to dark mode style.
-    customDarkCSS = "css/custom-dark.css"
-
-    # Custom list of Javascript files to load. Just like custom CSS you can place js files under
-    # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
-    # for example you may want to include external JS library.
-    customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
-    
-    # For OpenGraph metadata
-    title = "Lowfat Industries, LLC"
-    description = "Connecting human insights with technology for impact."
+[imaging]
+    quality = 75
